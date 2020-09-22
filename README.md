@@ -1,5 +1,5 @@
 # Calculator-JS
-A simple calculator implemented using HTML, CSS and Vanilla Javascript.
+A simple calculator implemented using HTML, CSS and basic Javascript.
 
 ![images/screenshot1](images/screenshot1.JPG)
 ![images/screenshot2](images/screenshot2.JPG)
