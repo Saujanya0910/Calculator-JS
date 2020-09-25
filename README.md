@@ -5,7 +5,8 @@ A simple calculator implemented using HTML, CSS and basic Javascript.
 ![images/screenshot2](images/screenshot2.JPG)
 
 # Functionalities
-Basic math operations like addition, subtraction, multiplication, division, modulus and exponentiation.
+* Basic math operations like addition, subtraction, multiplication, division, modulus and exponentiation.
+* Inputs directly from key-press for numbers(numpad-only) and operators. 
 
 # How to run
   * Download the entire repository after forking/cloning
