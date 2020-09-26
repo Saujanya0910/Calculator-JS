@@ -1,4 +1,6 @@
 # Calculator-JS
+[![HitCount](http://hits.dwyl.com/Saujanya0910/Calculator-JS.svg)](http://hits.dwyl.com/Saujanya0910/Calculator-JS)
+
 A simple calculator implemented using HTML, CSS and basic Javascript.
 
 ![images/screenshot1](images/screenshot1.JPG)
