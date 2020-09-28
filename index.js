@@ -45,8 +45,12 @@ function res() {
 window.addEventListener('keydown', (e) => {
     // for operators
     if(e.which == 107 || e.which == 109 || e.which == 111 || e.which == 106
-        || e.which == 191 || e.key == '%' || e.key == '^' || e.key == '(' || e.key == ')') {
+        || e.which == 191 || e.key == '%' || e.key == '(' || e.key == ')') {
         insert(e.key)
+    }
+    
+    if(  e.key == '^' ) {
+        insert('**')
     }
 
     // for numbers(numpad) & decimal
